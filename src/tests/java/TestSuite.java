@@ -1,9 +1,9 @@
 import MainTests.Container;
-import MainTests.PositionRefBottom;
 import MainTests.PositionRefTop;
 import footerTests.Footer;
 import navbarsTests.Login;
 import navbarsTests.Navbar;
+import MainTests.PositionRefBottom;
 import navbarsTests.TopBar;
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
